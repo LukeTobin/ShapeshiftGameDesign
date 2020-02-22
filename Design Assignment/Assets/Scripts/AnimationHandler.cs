@@ -8,19 +8,21 @@ public class AnimationHandler : MonoBehaviour
     Animator anim;
     SpriteRenderer sr;
     PlayerController player;
+    Collision col;
 
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+        col = GetComponent<Collision>();
         player = GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        anim.SetBool("isGrounded", player.onGround);
+        anim.SetBool("isGrounded", col.onGround);
     }
 
     public void SetHorizontalMovement(float x, float y, float yVel)
