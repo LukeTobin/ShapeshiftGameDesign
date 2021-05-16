@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 9dcfe045755ae574385876952e695270
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2045561796628187491
+    second: Clean-Retro-Lines-Player - Edit_0
+  - first:
+      213: 7148966600343537226
+    second: Clean-Retro-Lines-Player - Edit_1
+  - first:
+      213: -9010482436187022372
+    second: Clean-Retro-Lines-Player - Edit_2
+  - first:
+      213: 246035111399566117
+    second: Clean-Retro-Lines-Player - Edit_3
+  - first:
+      213: -5502915745701385534
+    second: Clean-Retro-Lines-Player - Edit_4
+  - first:
+      213: -8591611440954164319
+    second: Clean-Retro-Lines-Player - Edit_5
+  - first:
+      213: -6482470669583141941
+    second: Clean-Retro-Lines-Player - Edit_6
+  - first:
+      213: 3493283724340048660
+    second: Clean-Retro-Lines-Player - Edit_7
+  - first:
+      213: -2286895799830091876
+    second: Clean-Retro-Lines-Player - Edit_8
+  - first:
+      213: -6808745844461795875
+    second: Clean-Retro-Lines-Player - Edit_9
+  - first:
+      213: 4165619241391009784
+    second: Clean-Retro-Lines-Player - Edit_10
+  - first:
+      213: 8875486575703708114
+    second: Clean-Retro-Lines-Player - Edit_11
+  - first:
+      213: -8355638745954173925
+    second: Clean-Retro-Lines-Player - Edit_12
+  - first:
+      213: -3503531746817227220
+    second: Clean-Retro-Lines-Player - Edit_13
+  - first:
+      213: 2260962346248268896
+    second: Clean-Retro-Lines-Player - Edit_14
+  - first:
+      213: 5472135981003409393
+    second: Clean-Retro-Lines-Player - Edit_15
+  - first:
+      213: 3505510328263572868
+    second: Clean-Retro-Lines-Player - Edit_16
+  - first:
+      213: -6205581882083861572
+    second: Clean-Retro-Lines-Player - Edit_17
+  - first:
+      213: -2135678053250257307
+    second: Clean-Retro-Lines-Player - Edit_18
+  - first:
+      213: -1744670043071497084
+    second: Clean-Retro-Lines-Player - Edit_19
+  - first:
+      213: 1453270487373208938
+    second: Clean-Retro-Lines-Player - Edit_0
+  - first:
+      213: 1746603493198845475
+    second: Clean-Retro-Lines-Player - Edit_1
+  - first:
+      213: -3819152648404773994
+    second: Clean-Retro-Lines-Player - Edit_2
+  - first:
+      213: 3156713226907657657
+    second: Clean-Retro-Lines-Player - Edit_3
+  - first:
+      213: 252330651504739677
+    second: Clean-Retro-Lines-Player - Edit_4
+  - first:
+      213: 8255196729427227835
+    second: Clean-Retro-Lines-Player - Edit_5
+  - first:
+      213: -4502800569509693067
+    second: Clean-Retro-Lines-Player - Edit_6
+  - first:
+      213: 2057361228421075875
+    second: Clean-Retro-Lines-Player - Edit_7
+  - first:
+      213: 6987259694345807653
+    second: Clean-Retro-Lines-Player - Edit_8
+  - first:
+      213: 3910474202623483042
+    second: Clean-Retro-Lines-Player - Edit_9
+  - first:
+      213: -3635027482076670910
+    second: Clean-Retro-Lines-Player - Edit_10
+  - first:
+      213: -6526619532730557382
+    second: Clean-Retro-Lines-Player - Edit_11
+  - first:
+      213: 2321660723363583268
+    second: Clean-Retro-Lines-Player - Edit_12
+  - first:
+      213: 1862642875188006691
+    second: Clean-Retro-Lines-Player - Edit_13
+  - first:
+      213: 7933073635795753841
+    second: Clean-Retro-Lines-Player - Edit_14
+  - first:
+      213: 1703560913886554130
+    second: Clean-Retro-Lines-Player - Edit_15
+  - first:
+      213: -9161208896123781922
+    second: Clean-Retro-Lines-Player - Edit_16
+  - first:
+      213: 8677082202824764247
+    second: Clean-Retro-Lines-Player - Edit_17
+  - first:
+      213: -6640066039039978400
+    second: Clean-Retro-Lines-Player - Edit_18
+  - first:
+      213: 3331118587652542144
+    second: Clean-Retro-Lines-Player - Edit_19
+  - first:
+      213: 2776182918203487313
+    second: Clean-Retro-Lines-Player - Edit_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d507afecd0b2410800000000000000
+      internalID: 1453270487373208938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326d2978f9e2d3810800000000000000
+      internalID: 1746603493198845475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69357d8a6e4affac0800000000000000
+      internalID: -3819152648404773994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ab9374f5eecb20800000000000000
+      internalID: 3156713226907657657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5502e00465708300800000000000000
+      internalID: 252330651504739677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f97000b9509270800000000000000
+      internalID: 8255196729427227835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b2f72db6d281c0800000000000000
+      internalID: -4502800569509693067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a313ba03273d8c10800000000000000
+      internalID: 2057361228421075875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527e2e20cabb7f060800000000000000
+      internalID: 6987259694345807653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac93b6919bc44630800000000000000
+      internalID: 3910474202623483042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449906a3c9cd8dc0800000000000000
+      internalID: -3635027482076670910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c187f4d1acc65a0800000000000000
+      internalID: -6526619532730557382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42510119022383020800000000000000
+      internalID: 2321660723363583268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f4ef683df69d910800000000000000
+      internalID: 1862642875188006691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b5f96c070f71e60800000000000000
+      internalID: 7933073635795753841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a27510a344a710800000000000000
+      internalID: 1703560913886554130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb4611c09dcd080800000000000000
+      internalID: -9161208896123781922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75beb325a403b6870800000000000000
+      internalID: 8677082202824764247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06413e93e1fb9d3a0800000000000000
+      internalID: -6640066039039978400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clean-Retro-Lines-Player - Edit_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0bb9d4b28a3e20800000000000000
+      internalID: 3331118587652542144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
